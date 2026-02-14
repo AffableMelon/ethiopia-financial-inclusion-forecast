@@ -2,7 +2,7 @@
 
 **Date:** 2026-02-01
 **Task:** Task 1 - Data Exploration and Enrichment
-**Author:** Data Scientist (Agent)
+**Author:** Data Scientist
 
 ## Summary of Changes
 The starter dataset was enriched with observations derived from the project context and Global Findex summaries. The raw files from "Additional Data Points Guide" were inspected but contained metadata/sources rather than direct time-series data.
