@@ -27,8 +27,10 @@ Ethiopia is undergoing rapid digital financial transformation:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/Forecasting-Financial-Inclusion.git
-cd Forecasting-Financial-Inclusion
+git clone https://github.com/AffableMelon/ethiopia-financial-inclusion-forecast
+
+cd ethiopia-financial-inclusion-forecast
+
 ```
 
 2. **Create a virtual environment**
@@ -206,7 +208,8 @@ pip install -r requirements.txt
 
 2. **Start the dashboard**
 ```bash
-cd /path/to/Forecasting-Financial-Inclusion
+cd /path/to/ethiopia-financial-inclusion-forecast
+
 streamlit run dashboard/app.py
 ```
 
@@ -216,12 +219,6 @@ Open your browser to `http://localhost:8501`
 ## 👥 Team
 
 **Tutors**: Kerod, Mahbubah, Filimon
-
-## 📅 Key Dates
-
-- Challenge Introduction: January 28, 2026
-- Interim Submission: February 1, 2026
-- Final Submission: February 3, 2026
 
 ## 📚 Data Sources
 
@@ -235,4 +232,3 @@ Open your browser to `http://localhost:8501`
 ---
 
 *Selam Analytics — Financial Technology Consulting for Emerging Markets*</content>
-<parameter name="filePath">/home/marshy/FOSS/repos/tenx/w10/README.md
